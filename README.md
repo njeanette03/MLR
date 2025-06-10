@@ -36,4 +36,4 @@ variable differs by one unit. ε : the model error residuals
 
 **References**
 LeDoux, James, Coffee ratings (2020), GitHub repository,
-https://github.com/rfordatascience/tidytuesday/tree/master/data/2020/2020- 07-07#coffee_ratingscsv
+https://github.com/rfordatascience/tidytuesday/tree/master/data/2020/2020-07-07#coffee_ratingscsv
